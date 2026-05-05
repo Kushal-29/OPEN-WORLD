@@ -225,10 +225,6 @@ real-time
 
 ---
 
-### 🔥 4. Optional (BIG BOOST)
-Add demo link (if deployed):
-```
 
-🔗 Live Demo: [https://your-app-url.com](https://your-app-url.com)
 
 
